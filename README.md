@@ -6,7 +6,7 @@ My current projects are:
 - College Classes in Computer Science
 
 Here is a 3d render I made:
-![3d spaceship]()
+![3d spaceship](spaceship.png)
 
 <!--
 **LibreIpsum/LibreIpsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
